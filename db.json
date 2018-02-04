@@ -1,0 +1,34 @@
+{
+    "employees": [
+        {"id": "1",
+        "name": "andy",
+        "companyEmail": "andy@andyt.co",
+        "personalEmail": "amlopez333@gmail.com"  ,
+        "extension": "22247106",
+        "personalPhone": "88405594",
+        "imgUrl": "https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20%287%29.jpg"},
+        {"id": "2",
+            "name": "andy",
+            "companyEmail": "andy@andyt.co",
+            "personalEmail": "amlopez333@gmail.com"  ,
+            "extension": "22247106",
+            "personalPhone": "88405594",
+            "imgUrl": "https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20%287%29.jpg"},
+            {"id": "3",
+                "name": "andy",
+                "companyEmail": "andy@andyt.co",
+                "personalEmail": "amlopez333@gmail.com"  ,
+                "extension": "22247106",
+                "personalPhone": "88405594",
+                "imgUrl": "https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20%287%29.jpg"},
+                {"id": "4",
+                    "name": "andy",
+                    "companyEmail": "andy@andyt.co",
+                    "personalEmail": "amlopez333@gmail.com"  ,
+                    "extension": "22247106",
+                    "personalPhone": "88405594",
+                    "imgUrl": "https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20%287%29.jpg"}
+
+        
+    ]
+}
